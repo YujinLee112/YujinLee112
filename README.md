@@ -1,5 +1,3 @@
-## Hi there 👋
-
 ### Hi there 👋
 
 - 🏫 Electrical and Computer Engineering student at the **University of Waterloo**
